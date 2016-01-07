@@ -1,4 +1,6 @@
 # RxJava: Reactive Extensions for the JVM
+xJava 是一个响应式编程框架，采用观察者设计模式。所以自然少不了 Observable 和 Subscriber 这两个东东了。
+
 
 RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io): a library for composing asynchronous and event-based programs by using observable sequences.
 
